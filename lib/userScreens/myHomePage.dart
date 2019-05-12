@@ -158,7 +158,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                           color: Colors.white),
                                     ),
                                     new Text(
-                                      "N${storeItems[index].itemPrice}",
+                                      "Rs${storeItems[index].itemPrice}",
                                       style: new TextStyle(
                                           color: Colors.red[500],
                                           fontWeight: FontWeight.w700),

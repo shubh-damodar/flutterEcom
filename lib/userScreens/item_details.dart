@@ -162,7 +162,7 @@ class _ItemDetailsState extends State<ItemDetails> {
                               ],
                             ),
                             new Text(
-                              "N${widget.itemPrice}",
+                              "Rs${widget.itemPrice}",
                               style: new TextStyle(
                                   fontSize: 20.0,
                                   color: Colors.red[500],
